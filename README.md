@@ -1,6 +1,6 @@
 # microfrontend-showcase
 
-Set of examples showcasing different microfrontend approaches. This code will serve as content support for the [Microfrontends article series](https://braulio-diez.squarespace.com/lemoncode-blog/2021/1/21/microfrontends-i-introduccion-beneficios-y-retos) published in our blog.
+Set of examples showcasing different microfrontend approaches. This code will serve as content support for the [Microfrontends article series](https://lemoncode.net/lemoncode-blog/2021/1/21/microfrontends-i-introduccion-beneficios-y-retos) published in our blog.
 
 # About Basefactor + Lemoncode
 
